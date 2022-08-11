@@ -38,17 +38,17 @@ shopify theme pull
 ```
 shopify theme serve
 ```
-> Serving .
-┃
-┃ Please open this URL in your browser:
-┃ http://127.0.0.1:9292
-┃
-┃ Customize this theme in the Online Store Editor:
-┃ https://[ストア名].myshopify.com/admin/themes/128486244595/editor
-┃
-┃ Share this theme preview:
-┃ https://[ストア名].myshopify.com/?preview_theme_id=128486244595
-┃
+> Serving .  
+┃  
+┃ Please open this URL in your browser:  
+┃ http://127.0.0.1:9292  
+┃  
+┃ Customize this theme in the Online Store Editor:  
+┃ https://[ストア名].myshopify.com/admin/themes/128486244595/editor  
+┃  
+┃ Share this theme preview:  
+┃ https://[ストア名].myshopify.com/?preview_theme_id=128486244595  
+┃  
 ┃ (Use Ctrl-C to stop)
 
 上から順に、
